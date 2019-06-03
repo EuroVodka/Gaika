@@ -1,10 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better please fork the repo and create a pull request or simple open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- PROJECT SHIELDS -->
 
 [![MIT License][license-shield]][license-url]
@@ -73,6 +66,8 @@ This section should list any major frameworks that you built your project using.
 - [Jest](https://laravel.com)
 - [Enzyme](https://laravel.com)
 - [RBX (Bulma.io CSS for React)](https://laravel.com)
+
+Versioning style: Github-flow 
 
 <!-- GETTING STARTED -->
 
