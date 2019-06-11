@@ -51,7 +51,10 @@
 		"key-spacing": ["error", { "mode": "minimum" }],
 		"lines-between-class-members": ["error", "always"],
 		"max-depth": ["error", 4],
-		"max-len": ["error", { "code": 80, "ignoreUrls": true }],
+		"max-len": [
+			"error",
+			{ "code": 85, "ignoreUrls": true, "ignoreComments": true }
+		],
 		"new-cap": ["error", { "capIsNewExceptions": ["URI"] }],
 		"no-multi-spaces": [
 			"error",
