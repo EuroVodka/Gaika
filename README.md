@@ -60,14 +60,14 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [React 16.8 (yes, with hooks)](https://getbootstrap.com)
+- [React 16.8 (yes, with hooks and memo)](https://getbootstrap.com)
 - [Redux](https://jquery.com)
 - [Redux-starter-kit (which includes Redux-thunk midleware for AJAX)](https://laravel.com)
 - [Jest](https://laravel.com)
 - [Enzyme](https://laravel.com)
 - [RBX (Bulma.io CSS for React)](https://laravel.com)
 
-Versioning style: Github-flow 
+Versioning style: [Github-flow](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
 
 <!-- GETTING STARTED -->
 
