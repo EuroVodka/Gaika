@@ -22,7 +22,12 @@ const AmountInput = ( props: AmountProps ) => (
 
 const mapDispatchToProps = ( dispatch ) => ( {
 	update: ( amountValue: number ) =>
-		dispatch( updateAction( { field: 'amount', value: amountValue } ) ),
+		dispatch(
+			updateAction( {
+				field: 'amount',
+				value: amountValue,
+			} ),
+		),
 } )
 
 export default connect(
