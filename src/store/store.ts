@@ -4,7 +4,7 @@ import update from './reducers/update'
 
 const preloadedState = {
 	amount: 0,
-	ratio: 0,
+	rate: 0,
 	result: 0,
 }
 
