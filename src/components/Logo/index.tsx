@@ -2,7 +2,7 @@ import React from 'react'
 import { Control, Field } from 'rbx'
 
 import './Logo.css'
-import logo from '../../static/logo.svg'
+import logo from '../../static/Eurostars.svg'
 
 const Logo: React.FC = () => (
 	<Field>
